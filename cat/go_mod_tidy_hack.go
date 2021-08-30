@@ -1,3 +1,3 @@
 package cat
 
-import _ "github.com/codyoss/modtest2/dog"
+import _ "github.com/codyoss/modtest2"
